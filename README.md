@@ -1,5 +1,7 @@
 # NebliyMSS (Minecraft Server Starter)
 
+![New NebliyMSS banner.](https://cdn.nebliy.com/images/nebliymss-banner.png)
+
 > A modern, interactive, one-command script to generate the perfect `start.sh` launcher for your Linux Minecraft server.
 
 Stop manually writing `start.sh` scripts. NebliyMSS (Nebliy Minecraft Server Starter) provides a colorful, interactive terminal interface that asks you the right questions and generates a robust, auto-restarting launch script for you.
